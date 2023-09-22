@@ -34,22 +34,21 @@ TODO: Write at least one paragraph to explain the request source code
 
 #### Compare and contrast your implementation of `get_largest_odd` to those on page 25 of the textbook
 
-TODO: Refer to page 25 of the textbook and compare your function to the two blocks of code.
-TODO: You will provide an answer to this question by answering the following sub-questions.
-
 ##### Compared to the 16-line code block on page 25. Which do you prefer? Why?
 
-TODO: Refer to page 25 of the textbook and compare your function to code in the textbook.
+TODO: Refer to page 25 of the textbook and compare your function to 16-line code
+in the textbook.
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
 ##### Compare to the 8-line code block on page 25. Which do you prefer? Why?
 
-TODO: Refer to page 25 of the textbook and compare your function to code in the textbook.
+TODO: Refer to page 25 of the textbook and compare your function to 8-line code
+in the textbook.
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
 ## Professional Development
 
-### What was the greatest challenge that you faced when completing this assignment?
+### What have you learned about coding in Python since completing you first Engineering Effort?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 

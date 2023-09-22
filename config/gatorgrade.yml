@@ -105,7 +105,7 @@ setup: |
 - description: Have at least a specific minimum of commits in repository
   check: CountCommits
   options:
-    count: 10
+    count: 5
 
 # perform checks on a file
 - writing/reflection.md:
@@ -126,7 +126,7 @@ setup: |
     - description: Write a minimum number of meaningful words in the reflection
       check: CountFileWords
       options:
-        count: 400
+        count: 300
         exact: false
     - description: Confirm that the markdown file has the correct number of headers
       check: CountMarkdownTags
