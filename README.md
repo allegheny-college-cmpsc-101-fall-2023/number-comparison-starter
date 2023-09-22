@@ -22,7 +22,7 @@ description for
 - Modifications to the gatorgrade.yml file are not permitted without explicit instruction.
 - This assignment is a Programming Project and will be evaluated as
 described in the
-[Assessment Strategies](https://proactiveprogrammers.com/proactive-learning/assessment-strategy/#source-code-surveys).
+[Assessment Strategies](https://proactiveprogrammers.com/proactive-learning/assessment-strategy/#programming-projects).
 - You can check the
 [number-comparison-starter repository](https://github.com/allegheny-college-cmpsc-101-fall-2023/number-comparison-starter)
 for any updates to this project's documentation or
