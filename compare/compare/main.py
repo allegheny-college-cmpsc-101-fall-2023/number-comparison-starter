@@ -31,7 +31,7 @@ def get_largest_odd(first: int, second: int, third: int) -> Tuple[int, bool]:
     # Ultimately, make sure that the function returns two values in the
     # form (answer, found_odd), fitting the function's signature.
     # Be able to answer to yourself, what is the type of "found_odd"
-    # Think about "found_odd" as answering: did your algorithm find the 
+    # Think about "found_odd" as asking: did your algorithm find the 
     # the largest odd number among the three inputs?
 
     # You must use this exact line of code somewhere in the function
@@ -50,7 +50,7 @@ def compare(
 ) -> None:
     """Perform number comparison to find the largest odd number."""
     # TODO: create a console for rich text output - reference
-    # ^^^ for this TODO, reference Integer Square and Primality.
+    # ^^^ for this TODO, reference Integer Square and/or Primality.
 
     # TODO: create program output that exactly matches the expected
     # output on the ProactiveProgrammers web site! You can search
