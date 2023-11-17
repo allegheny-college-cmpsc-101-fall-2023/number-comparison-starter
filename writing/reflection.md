@@ -18,19 +18,30 @@ TODO: Use a fenced code block to provide the output for this command.
 
 - `poetry run compare --first 4 --second 10 --third 21`
 
+TODO: Use a fenced code block to provide the output for this command.
+
+- `poetry run compare --input-file inputs/file4.txt`
+
 ## Source Code and Configuration Files
 
-### Describe in detail how the completed source code works
+### Describe in detail how the following source code works
 
-#### A function that finds the minimum of three int values
+#### A function that reads in a file containing data
 
-TODO: Use a fenced code block to provide the requested source code
-TODO: Write at least one paragraph to explain the request source code
+TODO: Please retype the code you implemented to parse a data file
+in addition to explaining it briefly.
 
-#### A function that returns both largest odd and a boolean diagnostic flag
+##### What function and methods are used within the parsing function?
 
-TODO: Use a fenced code block to provide the requested source code
-TODO: Write at least one paragraph to explain the request source code
+TODO: Please retype the code requested.
+
+##### In what ways is the structure of the return type unnecessary for this project?
+
+TODO: Briefly explain
+
+##### For what kinds of data would this parsing function be more appropriate?
+
+TODO: Briefly explain
 
 #### Compare and contrast your implementation of `get_largest_odd` to those on page 25 of the textbook
 
@@ -49,9 +60,5 @@ TODO: Provide a one-paragraph response that answers this question in your own wo
 ## Professional Development
 
 ### What have you learned about coding in Python since completing you first Engineering Effort?
-
-TODO: Provide a one-paragraph response that answers this question in your own words.
-
-### Based on your experiences with this project, what is one way in which you want to improve?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
