@@ -35,8 +35,9 @@ numbers.
 The learning objectives of this assignment are to:
 
 1. Use Git and GitHub to manage source code file changes
-2. Write comparison algorithms, meet function specifications, output text to shell
-3. Write clearly about the programming concepts in this assignment.
+2. Read in data from text files
+3. Write comparison algorithms, meet function specifications, output text to shell
+4. Write clearly about the programming concepts in this assignment.
 
 ## Seeking Assistance
 
@@ -70,7 +71,7 @@ steps:
 - Specifically, you can change into the program directory by typing `cd compare`.
 - Install the dependencies for the project by typing `poetry install`.
 - Run the program in its two different modes by typing:
-  - `poetry run compare --first 4 --second 10 --third 20`
+  - `poetry run compare --input-file inputs/file4.txt`
   - `poetry run compare --first 4 --second 10 --third 21`
   - Please note that the program will not work unless you add the required
     source code at the designated `TODO` markers.
