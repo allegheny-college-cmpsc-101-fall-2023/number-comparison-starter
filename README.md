@@ -48,7 +48,9 @@ repository is a commitment to the latter.
 
 For this assignment, you may use class materials, textbooks, notes,
 and the internet. However, when asked to write "in your own words",
-you must use _your own_ words.
+you must use _your own_ words. Using ChatGTP or other AI-based language models
+to generate reflection responses is not permitted. Asking questions and
+learning the necessary concepts to complete the reflection is required.
 
 Post questions to the
 [Proactive Programmers Discord server](https://discord.gg/kjah8MFYbR)
